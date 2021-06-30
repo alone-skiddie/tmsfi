@@ -1,21 +1,21 @@
-# tmsf
-tmsf is a simple python script for beginners who want to install metasploit in termux very  easily.
+# tmsfi
+tmsfi is a simple python script for beginners who want to install metasploit in termux very  easily.
 It is really a simple program to install metasploit in termux using another tool named metasploit_in_termux by gushmazuko.
 You can also install gushmazuko's metasploit_in_termux for installing metasploit-framework in termux
 
 ![Screenshot_20210630_181220](https://user-images.githubusercontent.com/79966315/123962194-d0880e80-d9ce-11eb-849e-31382b4b0978.jpg)
 
-tmsf tool clones metasploit_in_termux tool by gushmazuko and install automatically for beginners.
+tmsfi tool clones metasploit_in_termux tool by gushmazuko and install automatically for beginners.
 This is actually not a tool or complete python program. 
 This program is full of linux basics commands that's why i said.
 This program is also helpful for beginners in linux commands who dont know how to install metasploit in termux properly and to study metasploit-framework for pentesting.
-This program is completely dedicated for beginners to install metasploit simply others can leave.
+This program is completely dedicated for beginners to install metasploit simply others can leave
 
-![Screenshot_20210630_171145](https://user-images.githubusercontent.com/79966315/123954891-9155bf80-d9c6-11eb-9cbc-adae6cc1ca9d.jpg)
+![Screenshot_20210630_181203](https://user-images.githubusercontent.com/79966315/123962374-05946100-d9cf-11eb-95c2-fa3155789d94.jpg)
 
           -----------------------------installation-------------------------------
           
-          #install basic packages to install tmsf
+          #install basic packages to install tmsfi
           
           $ apt-get update && apt-get upgrade && pkg update && pkg upgrade
           $ apt-get install python python2 wget -y 
@@ -25,13 +25,13 @@ This program is completely dedicated for beginners to install metasploit simply 
           $ cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
           $ wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsf.py
           
-          #for installing packages to run tmsf
+          #for installing packages to run tmsfi
           
           $ python installer.py  
           
-          # finally you can run tmsf tool via below command 
+          # finally you can run tmsfi tool via below command 
           
-          $ python tmsf.py
+          $ python tmsfi.py
           
           ---------------------------------------------------------------------------
           
