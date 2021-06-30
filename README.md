@@ -32,7 +32,9 @@ This program is completely dedicated for beginners to install metasploit simply 
           # finally you can run tmsf tool via below command 
           
           $ python tmsf.py
+          
           ---------------------------------------------------------------------------
+          
           # installing tmsf program is very simple 
           # thanks for installing this program
 
