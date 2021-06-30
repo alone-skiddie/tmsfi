@@ -37,4 +37,12 @@ This program is completely dedicated for beginners to install metasploit simply 
           
           # installing tmsf program is very simple 
           # thanks for installing this program
+          
+          ------------------------------------------------------------------------------------------------------
+          
+          if you facing any issues or problems in this program submit in issues with screenshot
+          thanks...
+          
+          -------------------------------------------------------------------------------------------------------
+        
 
