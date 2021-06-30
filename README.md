@@ -14,4 +14,12 @@ This program is completely dedicated for beginners to install metasploit simply 
 ![Screenshot_20210630_171145](https://user-images.githubusercontent.com/79966315/123954891-9155bf80-d9c6-11eb-9cbc-adae6cc1ca9d.jpg)
 
           -----------------------------installation-------------------------------
+          
+          #install basic packages
+          $ apt-get update && apt-get upgrade && pkg update && pkg upgrade
+          $ apt-get install python python2 wget -y 
+          
+          #copy and paste below commands without $ for installation
+          
+          $ cd ~ && wget 
 
