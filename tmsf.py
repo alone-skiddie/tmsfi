@@ -32,6 +32,7 @@ if choice == 0:
    os.system("echo          ")
 elif choice == 1:
    os.system("clear")
+   os.system("cd ~")
    os.system("apt-get update && apt-get upgrade -y && clear ")
    os.system("pkg install wget curl openssh git -y && apt-get install wget curl openssh git -y ")
    os.system("apt install ncurses-utils && pkg install ncurses-utils ")
