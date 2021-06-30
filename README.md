@@ -1,5 +1,7 @@
 # tmsf
-tmsf is a simple python script for beginners who want to install metasploit in termux very  easily.It is really a simple program to install metasploit in termux using another tool named metasploit_in_termux by gushmazuko.You can also install gushmazuko's metasploit_in_termux for installing metasploit-framework in termux
+tmsf is a simple python script for beginners who want to install metasploit in termux very  easily.
+It is really a simple program to install metasploit in termux using another tool named metasploit_in_termux by gushmazuko.
+You can also install gushmazuko's metasploit_in_termux for installing metasploit-framework in termux
 
 ![Screenshot_20210630_153127](https://user-images.githubusercontent.com/79966315/123943890-3322df80-d9ba-11eb-8634-317d9b2f969b.jpg)
 
