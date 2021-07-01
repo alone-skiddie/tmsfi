@@ -13,36 +13,36 @@ This program is completely dedicated for beginners to install metasploit simply 
 
 ![Screenshot_20210630_181203](https://user-images.githubusercontent.com/79966315/123962374-05946100-d9cf-11eb-95c2-fa3155789d94.jpg)
 
-          -----------------------------installation-------------------------------
+-----------------------------installation-------------------------------
           
-          #install basic packages to install tmsfi
+#install basic packages to install tmsfi
           
-          $ apt-get update && apt-get upgrade && pkg update && pkg upgrade
-          $ apt-get install python python2 wget -y 
+$ apt-get update && apt-get upgrade && pkg update && pkg upgrade
+$ apt-get install python python2 wget -y 
           
-          #copy and paste below commands without $ for installation
+#copy and paste below commands without $ for installation
           
-          $ cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
-          $ wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsfi.py
+$ cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
+$ wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsfi.py
           
-          #for installing packages to run tmsfi
+#for installing packages to run tmsfi
           
-          $ python installer.py  
+$ python installer.py  
           
-          # finally you can run tmsfi tool via below command 
+#finally you can run tmsfi tool via below command 
           
-          $ python tmsfi.py
+$ python tmsfi.py
           
-          ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
           
-          # installing tmsf program is very simple 
-          # thanks for installing this program
+installing tmsf program is very simple 
+thanks for installing this program
           
-          ------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
           
-          if you facing any issues or problems in this program submit in issues with screenshot
-          thanks...
+if you facing any issues or problems in this program submit in issues with screenshot
+thanks...
           
-          -------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
         
 
