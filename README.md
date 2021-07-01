@@ -1,5 +1,5 @@
-# tmsfi
-tmsfi is a simple python script for beginners who want to install metasploit in termux very  easily.
+# tmsfi (termux metasploit framework installer)
+tmsfi (termux metasploit framework installer) is a simple python script for beginners who want to install metasploit in termux very  easily.
 It is really a simple program to install metasploit in termux using another tool named metasploit_in_termux by gushmazuko.
 You can also install gushmazuko's metasploit_in_termux for installing metasploit-framework in termux
 
