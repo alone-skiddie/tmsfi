@@ -7,7 +7,7 @@ print ("                                                     ")
 from pyfiglet import Figlet
 custom_fig = Figlet(font='graffiti')
 print(custom_fig.renderText("      tmsfi  "))
-os.system("sleep 2.5 ")
+os.system("sleep 2")
 print ("                ^^^^^^^^^^^                      ") 
 print ("                |t|m|s|f|i|     ")
 print ("                                           ")
@@ -48,9 +48,10 @@ elif choice == 1:
 elif choice ==2:
    os.system("clear")
    os.system("chmod +x postgresql_ctl.sh ")
+   os.system ("./postgresql_ctl.sh stop ")
+   os.system ("sleep 2 && clear")
    os.system("./postgresql_ctl.sh start ")
-   os.system("sleep 3")
-   os.system("clear")
+   os.system("sleep 2 && clear")
    os.system("msfconsole")
 
 elif choice == 3:
