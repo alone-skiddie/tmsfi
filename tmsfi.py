@@ -33,7 +33,7 @@ if choice == 0:
    os.system ("sleep 3.5 ")
    os.system("clear ")
    os.system (" echo          ")
-   print ("echo all basic packages for this program is installed ")
+   print ("all basic packages for this program is installed ")
    os.system(" sleep 3.5")  
    os.system("echo          ")
 elif choice == 1:
