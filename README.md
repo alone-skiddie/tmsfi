@@ -23,6 +23,7 @@ $ apt-get install python python2 wget -y
 #copy and paste below commands without $ for installation
           
 $ cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
+
 $ wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsfi.py
           
 #for installing packages to run tmsfi
