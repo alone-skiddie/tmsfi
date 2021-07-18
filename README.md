@@ -15,13 +15,13 @@ This program is completely dedicated for beginners to install metasploit simply 
 
 -----------------------------installation-------------------------------
           
-#install basic packages to install tmsfi
-          
+|install basic packages to install tmsfi|
+```          
 $ apt-get update && apt-get upgrade && pkg update && pkg upgrade
 $ apt-get install python python2 wget -y 
-          
+```          
 #copy and paste below commands without $ for installation
-          
+  ```        
 $ cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
 
 $ wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsfi.py
@@ -33,7 +33,7 @@ $ python installer.py
 #finally you can run tmsfi tool via below command 
           
 $ python tmsfi.py
-          
+   ```       
 ---------------------------------------------------------------------------
           
 installing tmsf program is very simple 
