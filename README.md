@@ -20,19 +20,19 @@ This program is completely dedicated for beginners to install metasploit simply 
 $ apt-get update && apt-get upgrade && pkg update && pkg upgrade
 $ apt-get install python python2 wget -y 
 ```          
-#copy and paste below commands without $ for installation
+#copy and paste below commands for installation
   ```        
-$ cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
+ cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
 
-$ wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsfi.py
+ wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsfi.py
           
 #for installing packages to run tmsfi
           
-$ python installer.py  
+ python installer.py  
           
 #finally you can run tmsfi tool via below command 
           
-$ python tmsfi.py
+ python tmsfi.py
    ```       
 ---------------------------------------------------------------------------
           
