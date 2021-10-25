@@ -22,9 +22,9 @@ This program is completely dedicated for beginners to install metasploit simply 
 ```          
 copy and paste below commands for installation
   ```        
- cd ~ && wget https://raw.githubusercontent.com/los33r/tmsf/main/installer.py
+ cd ~ && wget https://raw.githubusercontent.com/alone-skiddie/tmsf/main/installer.py
 
- wget https://raw.githubusercontent.com/los33r/tmsf/main/tmsfi.py
+ wget https://raw.githubusercontent.com/alone-skiddie/tmsf/main/tmsfi.py
           
 #for installing packages to run tmsfi
           
