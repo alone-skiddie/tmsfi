@@ -22,15 +22,13 @@ This program is completely dedicated for beginners to install metasploit simply 
 ```          
 copy and paste below commands for installation
   ```        
- cd ~ && wget https://raw.githubusercontent.com/alone-skiddie/tmsf/main/installer.py
-
- wget https://raw.githubusercontent.com/alone-skiddie/tmsf/main/tmsfi.py
-          
+ cd ~ && wget https://raw.githubusercontent.com/alone-skiddie/tmsf/main/install.sh
+      
 #for installing packages to run tmsfi
           
- python installer.py  
+ bash install.sh
           
-#finally you can run tmsfi tool via below command 
+# you can run tmsfi tool via below this command 
           
  python tmsfi.py
    ```       
@@ -38,12 +36,7 @@ copy and paste below commands for installation
           
 installing tmsf program is very simple 
 thanks for installing this program
-          
-------------------------------------------------------------------------------------------------------
-          
+                   
 if you facing any issues or problems in this program submit in issues with screenshot
 thanks...
-          
--------------------------------------------------------------------------------------------------------
         
-
