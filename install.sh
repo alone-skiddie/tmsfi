@@ -21,3 +21,10 @@ echo   "                                                             "
 echo   " your basic packages for running tmsfi tool is installed " 
          sleep 3 
 echo   "                                                                "
+clear
+echo   " downloading tmsfi file ...." 
+sleep 3
+cd ~ && wget https://raw.githubusercontent.com/alone-skiddie/tmsf/main/tmsfi.py
+python tmsfi.py
+
+
