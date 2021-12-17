@@ -11,7 +11,7 @@ This program is full of linux basics commands that's why i said.
 This program is also helpful for beginners in linux commands who dont know how to install metasploit in termux properly and to study metasploit-framework for pentesting.
 This program is completely dedicated for beginners to install metasploit simply others can leave
 
-![Screenshot_20210630_181203](https://user-images.githubusercontent.com/79966315/123962374-05946100-d9cf-11eb-95c2-fa3155789d94.jpg)
+
 
                                        installation          
           
