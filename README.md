@@ -15,7 +15,7 @@ This program is completely dedicated for beginners to install metasploit simply 
 
                                        installation          
           
-| install basic packages to install tmsfi |
+ install basic packages to install tmsfi 
 ```          
  apt-get update && apt-get upgrade && pkg update && pkg upgrade
  apt-get install python python2 wget -y 
@@ -23,9 +23,6 @@ This program is completely dedicated for beginners to install metasploit simply 
 copy and paste below commands for installation
   ```        
  cd ~ && wget https://raw.githubusercontent.com/alone-skiddie/tmsf/main/install.sh
-      
-#for installing packages to run tmsfi
-          
  bash install.sh
           
 # you can run tmsfi tool via below this command 
