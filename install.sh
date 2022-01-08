@@ -26,7 +26,7 @@ clear
 echo -e " *downloading tmsfi file ..."
 sleep 3
 echo "  --------------------------------------------------------------"
-cd ~ && wget https://raw.githubusercontent.com/alone-skiddie/tmsfi/main/tmsfi.py
+cd ~ && rm -rf tmsfi.py && wget https://raw.githubusercontent.com/alone-skiddie/tmsfi/main/tmsfi.py
 sleep 2 && clear
 echo " *sucessfully installed tmsfi file * "
 sleep 1.5
