@@ -42,7 +42,7 @@ elif choice == 1:
    os.system("apt-get update && apt-get upgrade -y && clear ")
    os.system("pkg install wget curl openssh git -y && apt-get install wget curl openssh git -y ")
    os.system("apt install ncurses-utils && pkg install ncurses-utils ")
-   os.system("wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh ")
+   os.system("cd $HOME && wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh ")
    os.system("chmod +x metasploit.sh && bash metasploit.sh ")
    
 elif choice ==2:
